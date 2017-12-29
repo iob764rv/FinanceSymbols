@@ -7,7 +7,7 @@ import java.net.URLConnection;
 import java.nio.charset.Charset;
 
 public class FinanceSymbols {
-    public static void run()throws IOException{
+    public void run()throws IOException{
     
     }
     public static void main (String args[])   {
