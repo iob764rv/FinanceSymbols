@@ -6,6 +6,7 @@ import com.jimmoores.quandl.classic.ClassicQuandlSession;
 import java.net.URL;
 import java.net.URLConnection;
 import java.nio.charset.Charset;
+import java.util.logging.Logger;
 
 public class FinanceSymbols {
     public void run()throws IOException{
