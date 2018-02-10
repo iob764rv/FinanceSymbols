@@ -9,7 +9,7 @@ import java.nio.charset.Charset;
 import java.util.logging.Logger;
 
 public class FinanceSymbols {
-    public void run()throws IOException{
+    public void run(){
     
     }
     public static void main (String args[])   {
