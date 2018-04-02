@@ -47,7 +47,7 @@ public class TestExceptions extends BaseTest
         p.close();
     }
 
-    // [core#198]
+ 
     public void testAccessToGenerator() throws Exception
     {
         StringWriter w = new StringWriter();
