@@ -36,7 +36,7 @@ public class VersionUtilTest {
     assertTrue(version.isUnknownVersion());
   }
 
- 
+  @Test
   public void testParseVersionWithNullAndEmptyString() {
     Version version = VersionUtil.parseVersion(null, "/nUmRN)3", "");
 
